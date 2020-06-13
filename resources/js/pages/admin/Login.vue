@@ -1,6 +1,6 @@
 <template>
     <v-container class="screen-height">
-        <v-row justify="center" align="center">
+        <v-row justify="center" align="center" class="screen-height">
             <v-col cols="4">
                 <v-card>
                     <v-toolbar
