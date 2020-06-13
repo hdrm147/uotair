@@ -33,8 +33,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-    <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/4.png?raw=true" width="400">  | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/2.png?raw=true" width="400">  | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/3.png?raw=true" width="400"> 
-    <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/1.png?raw=true" width="400">  | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/5.png?raw=true" width="400">  | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/6.png?raw=true" width="400"> 
+   <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/4.png?raw=true" width="400"> | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/2.png?raw=true" width="400"> | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/3.png?raw=true" width="400">
+   <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/1.png?raw=true" width="400"> | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/5.png?raw=true" width="400"> | <img src="https://raw.githubusercontent.com/hdrm147/uotair/master/screenshots/6.png?raw=true" width="400">
 
 ## License
 
