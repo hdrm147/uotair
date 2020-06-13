@@ -1,5 +1,5 @@
 <template>
-    <v-container class="fill-height">
+    <v-container class="screen-height">
         <v-row justify="center" align="center">
             <v-col cols="4">
                 <v-card>

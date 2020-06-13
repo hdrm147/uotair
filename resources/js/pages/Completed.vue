@@ -2,7 +2,7 @@
     <v-container v-if="loaded" class="printable-container" style="position: relative">
         <input id="cb" type="text" hidden>
 
-        <v-row justify="center" class="fill-height d-print-none" align="center">
+        <v-row justify="center" class="screen-height d-print-none" align="center">
             <v-col class="pa-0 pb-6" cols="12" sm="12" md="9" lg="8" xl="5">
                 <v-card>
                     <v-card-text>

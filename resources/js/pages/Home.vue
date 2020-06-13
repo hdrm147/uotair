@@ -1,6 +1,6 @@
 <template>
     <v-container>
-        <v-row class="container-margin fill-height">
+        <v-row class="container-margin screen-height">
             <v-col offset-md="1" offset-lg="2" offset-xl="2" md="6" lg="4" xl="3" sm="8" offset-sm="2" cols="12">
                 <v-card>
                     <v-card-title>
@@ -714,8 +714,5 @@
         margin-bottom: 0;
     }
 
-    .screen-height {
-        /*height: 50vh;*/
-    }
 
 </style>

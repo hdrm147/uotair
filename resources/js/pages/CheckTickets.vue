@@ -1,6 +1,6 @@
 <template>
     <v-container class="printable-container" style="position: relative">
-        <v-row justify="center" class="fill-height d-print-none" align="center">
+        <v-row justify="center" class="screen-height d-print-none" align="center">
             <v-col class="pa-0 pb-6" cols="12" sm="12" md="8" lg="6" xl="4">
                 <v-card>
                     <v-card-text>
