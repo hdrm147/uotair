@@ -22,11 +22,12 @@
         .theme--light.v-application {
             background-color: transparent !important;
         }
+        [v-cloak] {display: none}
 
     </style>
 </head>
 <body>
-<div id="app">
+<div id="app" v-cloak>
 
 
     <v-app>

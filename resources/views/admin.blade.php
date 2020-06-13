@@ -16,8 +16,11 @@
     <style>
     </style>
 </head>
+<style>
+    [v-cloak] {display: none}
+</style>
 <body>
-<div id="app">
+<div id="app" v-cloak>
 
 
     <v-app id="inspire">
