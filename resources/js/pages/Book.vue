@@ -605,11 +605,11 @@
             }
             for (let i = 1; i <= this.details.adults; i++) {
                 this.passengers.push({
-                    name: "Haidar",
+                    name: null,
                     gender: "male",
                     type: "adult",
-                    date_of_birth: "1998-07-14",
-                    seat: "A5",
+                    date_of_birth: null,
+                    seat: null,
                 })
             }
             for (let i = 1; i <= this.details.children; i++) {
