@@ -3,7 +3,7 @@
 
 ## About UOTAir
 
-UOTAir is a web based ticket reservation system or airlines tickets
+UOTAir is a web based ticket reservation system for airlines
  
 - Add countries, cities, airports, flight routes, flight classes and flights.
 - Specify flight's schedule by weekdays (every sunday, every monday...etc) 
