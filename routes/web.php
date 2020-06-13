@@ -12,15 +12,14 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::view("/sandbox",'sandbox');
 Route::view("/admin/login",'admin')->name("login");
 Route::any('/admin/{all?}', function () {
     return view('admin');
 })->where(['all' => '.*']);
 
-Route::view('/', 'welcome');
-Route::view('/completed', 'welcome');
-Route::view('/check', 'welcome');
-Route::view('/book', 'welcome');
+Route::view('/', 'customer');
+Route::view('/completed', 'customer');
+Route::view('/check', 'customer');
+Route::view('/book', 'customer');
 Route::get('/dashboard', 'AdminController@dashboard');
 Route::get('/dashboard/{resourceName}', 'AdminController@index');

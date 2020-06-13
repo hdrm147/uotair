@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <link href="/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="/css/app.css" rel="stylesheet">
 
     <title>UOTAir</title>
     <style>
@@ -21,6 +22,7 @@
         .theme--light.v-application {
             background-color: transparent !important;
         }
+
     </style>
 </head>
 <body>
