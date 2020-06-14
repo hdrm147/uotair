@@ -19,7 +19,7 @@ UOTAir is a web based ticket reservation system for airlines
 
 ## DEMO
 
-UOTAir is demonstrated [here]("https://uot.hdrm.dev")
+UOTAir is demonstrated [here](https://uot.hdrm.dev/)
 
 ## Tools Stack
 
