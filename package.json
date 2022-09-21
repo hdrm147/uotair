@@ -27,7 +27,7 @@
         "sass-loader": "^8.0.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10",
-        "vuetify": "^2.2.29",
+        "vuetify": "^2.6.10",
         "vuetify-loader": "^1.4.3",
         "vuetifyjs-mix-extension": "^0.0.8"
     },
